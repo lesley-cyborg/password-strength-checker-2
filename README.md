@@ -1,4 +1,4 @@
-# 🔐 Password Strength Checker
+# 🔐 Password Strength Checker 2
 
 A Python-based password strength checker with:
 
